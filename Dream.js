@@ -128,9 +128,9 @@ client10.on('message', message => {
 
 
  
-client8.login(process.env.TOKEN4);// لا تغير فيها شيء
-client9.login(process.env.TOKEN5);
-client10.login(process.env.TOKEN6);
+client8.login(process.env.TOKEN8);// لا تغير فيها شيء
+client9.login(process.env.TOKEN9);
+client10.login(process.env.TOKEN10);
 
 
 // لا تغير فيها شيء
